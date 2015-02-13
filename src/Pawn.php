@@ -2,7 +2,6 @@
 
 namespace LogicNow;
 
-use LogicNow\PieceColorEnum;
 
 class Pawn
 {
